@@ -2,7 +2,7 @@
 
 大家可以複製以下程式碼 又或者直接下載 HelloWorld.py 檔案
 
-```
+``` python
 import os
 
 print("請輸入一個偶數：")
